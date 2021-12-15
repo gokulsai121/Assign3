@@ -1,6 +1,6 @@
 # calcluator_app
 
-# 3rd and 4th Assignment
+#  Assignment - 3
 
 
 1. code update
